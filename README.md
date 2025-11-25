@@ -16,13 +16,13 @@ Supabase is used as the backend, accessed through the Supabase JavaScript client
 ## 📸 Screenshots
 
 ### People Search
-![People Search](./screenshots/PeopleSearchPage.jpg)
+![People Search](Database-Webapp/screenshots/PeopleSearchPage.jpg)
 
 ### Vehicle Search
-![Vehicle Search](./screenshots/VehicleSearchPage.jpg)
+![Vehicle Search](Database-Webapp/screenshots/VehicleSearchPage.jpg)
 
 ### Add Vehicle
-![Add Vehicle](./screenshots/AddVehiclePage.jpg)
+![Add Vehicle](Database-Webapp/screenshots/AddVehiclePage.jpg)
 
 ---
 
