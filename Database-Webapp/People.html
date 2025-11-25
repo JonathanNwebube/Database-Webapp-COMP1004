@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>People Search</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body id="container">
+        <header class="boxed">
+            <h1>People search</h1>
+            <br>
+            <ul class="nav-links">
+                <li><a href="People.html">People search</a></li>
+                <li><a href="Vehicles.html">Vehicle search</a></li>
+                <li><a href="add-vehicle.html">Add a vehicle</a></li>
+            </ul>
+            <br>
+        </header>
+
+        <main class="boxed">
+            <form id="searchForm">
+                <br>
+                <label for="name">Search by driver name: </label>
+                <input type="text" id="name" placeholder="John Doe">
+                <br>
+                <label for="license">Search by driving license number:  </label>
+                <input type="text" id="license" placeholder="JQJ13HU">
+                <br>
+                <br>
+                <button type="submit">Submit</button>
+                <br>
+                <br>
+            </form>
+            <div id="message"></div>
+            <div id="results" class = "results-container"></div>
+        </main>
+
+        <aside>
+            <img src="BusinessMan.png" alt="Cartoon of businessman" width="200">
+        </aside>
+
+        <footer class="boxed">
+            <p>Jonathan Nwebube - 20554142 - COMP1004 Coursework</p>
+        </footer>
+        <script src="supabase-People.js" type="module"></script>
+    </body>
+</html>
