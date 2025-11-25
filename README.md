@@ -1,7 +1,7 @@
 # Database-Webapp COMP1004
 
 A simple web application built with **HTML, CSS, and JavaScript** that connects to a **Supabase PostgreSQL database**.  
-This project was completed as part of the **COMP1004 Web Programming coursework**.
+This project was completed as part of the **COMP1004 Databases and Interfaces coursework**.
 
 The application allows users to:
 
